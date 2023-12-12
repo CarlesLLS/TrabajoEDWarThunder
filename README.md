@@ -26,3 +26,6 @@ War Thunder cuenta con una gran comunidad de jugadores en todo el mundo. Los eve
 
 ## Conclusiones
 War Thunder ha logrado destacarse en el género de juegos de guerra gracias a su enfoque en la autenticidad y la diversidad de vehículos. La combinación de batallas aéreas, terrestres y navales ofrece una experiencia integral de combate militar. Con una comunidad activa y un desarrollo continuo, War Thunder sigue siendo un referente en el género de simulación militar.
+
+## Breve Tutorial de como funciona el juego.
+https://www.youtube.com/watch?v=8qinLw5lXvg&ab_channel=XKISITO
