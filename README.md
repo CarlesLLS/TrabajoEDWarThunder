@@ -9,11 +9,17 @@ War Thunder es un juego de combate vehicular desarrollado por Gaijin Entertainme
 1. Batallas Aéreas
 War Thunder permite a los jugadores participar en intensas batallas aéreas. Con una amplia variedad de aviones, desde cazas rápidos hasta bombarderos pesados, los jugadores pueden sumergirse en combates aéreos realistas, donde la estrategia, la velocidad y la maniobrabilidad son clave.
 
+![alt text](https://www.pockettactics.com/wp-content/sites/pockettactics/2023/08/war-thunder-planes-hurricane.jpg "Img Batallas Aereas")
+
 2. Batallas Terrestres
 Las batallas terrestres incluyen tanques, vehículos blindados y cazacarros. La simulación detallada de daños, la mecánica de penetración de blindaje y la variedad de vehículos ofrecen una experiencia inmersiva de combate terrestre. Los jugadores pueden elegir entre diversas naciones y eras históricas.
 
+![alt text](https://static.warthunder.com/upload/image/0_2023/5_May/TankGB/Abrams_9c64d8f7bc727e60b35174732405b762.jpg "img Batallas Terrestres")
+
 3. Batallas Navales
 La incorporación de batallas navales amplió aún más la experiencia de War Thunder. Desde destructores hasta acorazados, los jugadores pueden librar batallas en el océano, manejando la navegación, el disparo de artillería y la estrategia naval.
+
+![alt text](https://static.warthunder.com/upload/image/0_2023/4_April/Mobile/6_940_5b822dc52f748dbcede056d5fbd79341.jpg "img Batallas Navales")
 
 ## Progresión y Economía
 War Thunder utiliza un sistema de progresión basado en la experiencia ganada en batallas. Los jugadores desbloquean nuevos vehículos y mejoras a medida que avanzan en las líneas de investigación de las naciones. La economía del juego implica la gestión de Silver Lions y Golden Eagles, utilizados para comprar vehículos, mejorar tripulaciones y adquirir camuflajes y personalizaciones.
