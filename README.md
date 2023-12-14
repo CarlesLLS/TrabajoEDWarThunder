@@ -29,4 +29,6 @@ War Thunder ha logrado destacarse en el género de juegos de guerra gracias a su
 
 ## Breve Tutorial de como funciona el juego.
 
+Al hacer clic en la imagen se le redirigirá al video tutorial.
+
 [![IMAGE ALT TEXT HERE](https://static.warthunder.com/upload/image/media/wallpapers/1-41_eng_com_1920x1080_logo.jpg)](https://www.youtube.com/watch?v=8qinLw5lXvg&ab_channel=XKISITO)
