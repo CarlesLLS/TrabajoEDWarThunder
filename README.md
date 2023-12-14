@@ -27,22 +27,32 @@ War Thunder utiliza un sistema de progresión basado en la experiencia ganada en
 Dentro de la progresion y la economia tenemos los battle ratings, ¿Que son los battle ratings? Los battle ratings son un numero que adquiere cada vehiculo para poder separarlo de cada era, es decir un vehculo de la segunda guerra mundial no puede aparecer con vehiculo moderno de manera que lo ratings van desde el numero 1.0 o reserva hasta el numero 12.7 que es el mas alto actualmente, los vehiculos tambien se dividen en rangos empezando desde el rango 1 hasta el rango 8 que fue introducido recientemente en la actualizacion de Air Superiority el 14 de Diciembre del año 2023. En la siguiente tabla mostraremos como funciona el rating de los vehiculos.
 
 
-Battle | Ratings | War Thunder                              Rangos | Vehiculos | War Thunder
---- | --- | ---                                             --- | --- | ---
-Tier 1 | Tier 2 | Tier 3                                    ---| Rango I   |---
-1.0  | 1.3  | 1.7                                           ---| Rango II  |---
-2.0  | 2.3  | 2.7                                           ---| Rango III |---
-3.0  | 3.3  | 3.7                                           ---| Rango IV |---
-4.0  | 4.3  | 4.7                                           ---| Rango V |---
-5.0  | 5.3  | 5.7                                           ---| Rango VI |---
-6.0  | 6.3  | 6.7                                           ---| Rango VII |---
-7.0  | 7.3  | 7.7                                           ---| Rango VIII |---
+Battle | Ratings | War Thunder                              
+--- | --- | ---                                             
+Tier 1 | Tier 2 | Tier 3                                    
+1.0  | 1.3  | 1.7                                           
+2.0  | 2.3  | 2.7                                           
+3.0  | 3.3  | 3.7                                           
+4.0  | 4.3  | 4.7                                           
+5.0  | 5.3  | 5.7                                           
+6.0  | 6.3  | 6.7                                           
+7.0  | 7.3  | 7.7                                           
 8.0  | 8.3  | 8.7
 9.0  | 9.3  | 9.7
 10.0 | 10.3 | 10.7
 11.0 | 11.3 | 11.7
 12.0 | 12.3 | 12.7
 
+Rangos | Vehiculos | War Thunder
+--- | --- | ---
+R1 | Rango I   |R1
+R2 | Rango II  |R2
+R3 | Rango III |R3
+R4 | Rango IV |R4
+R5 | Rango V |R5
+R6 | Rango VI |R6
+R7 | Rango VII |R7
+R8| Rango VIII |R8
 
 ## Realismo y Detalles Técnicos
 La atención al detalle en War Thunder es sorprendente. Los vehículos están modelados con precisión, desde la forma de la estructura hasta los detalles más pequeños. Las simulaciones de daño son realistas, teniendo en cuenta la ubicación de los impactos y la vulnerabilidad de cada vehículo.
