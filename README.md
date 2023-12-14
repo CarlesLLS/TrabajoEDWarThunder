@@ -42,6 +42,11 @@ Dentro de la progresion y la economia tenemos los battle ratings, ¿Que son los 
 | 12.0          | 12.3          | 12.7  |
 
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 
 ## Realismo y Detalles Técnicos
 La atención al detalle en War Thunder es sorprendente. Los vehículos están modelados con precisión, desde la forma de la estructura hasta los detalles más pequeños. Las simulaciones de daño son realistas, teniendo en cuenta la ubicación de los impactos y la vulnerabilidad de cada vehículo.
