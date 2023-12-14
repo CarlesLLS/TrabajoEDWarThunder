@@ -45,14 +45,14 @@ Tier 1 | Tier 2 | Tier 3
 
 Rangos | Vehiculos | War Thunder
 --- | --- | ---
-R1 | Rango I   |R1
-R2 | Rango II  |R2
-R3 | Rango III |R3
-R4 | Rango IV |R4
-R5 | Rango V |R5
-R6 | Rango VI |R6
-R7 | Rango VII |R7
-R8| Rango VIII |R8
+R1 | Rango I   |
+R2 | Rango II  |
+R3 | Rango III |
+R4 | Rango IV |
+R5 | Rango V |
+R6 | Rango VI |
+R7 | Rango VII |
+R8| Rango VIII |
 
 ## Realismo y Detalles Técnicos
 La atención al detalle en War Thunder es sorprendente. Los vehículos están modelados con precisión, desde la forma de la estructura hasta los detalles más pequeños. Las simulaciones de daño son realistas, teniendo en cuenta la ubicación de los impactos y la vulnerabilidad de cada vehículo.
