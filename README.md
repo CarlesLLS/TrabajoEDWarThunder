@@ -63,8 +63,60 @@ War Thunder cuenta con una gran comunidad de jugadores en todo el mundo. Los eve
 ## Conclusiones
 War Thunder ha logrado destacarse en el género de juegos de guerra gracias a su enfoque en la autenticidad y la diversidad de vehículos. La combinación de batallas aéreas, terrestres y navales ofrece una experiencia integral de combate militar. Con una comunidad activa y un desarrollo continuo, War Thunder sigue siendo un referente en el género de simulación militar.
 
+## Modos de juego explicados mas a fondo.
+
+1. ### Batallas Aéreas
+War Thunder permite a los jugadores participar en intensas batallas aéreas. Con una amplia variedad de aviones, desde cazas rápidos hasta bombarderos pesados, los jugadores pueden sumergirse en combates aéreos realistas, donde la estrategia, la velocidad y la maniobrabilidad son clave.
+
+Dentro de las batllas aereas tenemos diferentes tipos de aviones dentro de estos tenemos:
+1. Biplanos.
+2. Cazas Ligeros.
+3. Cazas Bimotor.
+4. Cazas Navales.
+5. Cazas de Ataque.
+6. Cazas de Defensa Aerea
+7. Interceptores
+8. Jets de Combate.
+9. Hidro Aviones.
+10. Bombarderos Ligeros.
+11. Bombarderos Pesados.
+12. Bombarderos Medianos.
+13. Bombarderos Torpederos.
+14. Bombarderos en Picado.
+15. Bombarderos de Primera Linea.
+16. Bombarderos Jet.
+
+Todos estos aviones cumplen un rol en especifico para una funcion especifica como por ejemplo: 
+
+Los cazas en general tienen la capacidad de combatir antes amenazas, pero no tienen la capacidad de cargar bombas o si la tienen suelen tener una carga muy pequeña.
+
+Los interceptores tienen la capacidad de combatir otros aviones con una gran cantidad de armamento aire aire con la capacidad de destruir uno o varios aviones, estos tienen el rol de interceptar otros aviones principalmente bombarderos, estos son los que evitan que los bombarderos lleguen al campo de batalla.
+
+Los bombardeors tienen la capacidad de bombardear y destruir objetivos estrategicos en tierra como fortines, bunkeres o incluso equipo de tierra como tanques, tropas o vehiculos ligeros con capacidad de recoger cierto tipo de informacion en el campo, estos aviones no son autosuficientes es decir no se pueden defender por si mismos, por esta razon suelen ir acompañados de otros aviones como cazas o jets para poder defender a este mismo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Breve Tutorial de como funciona el juego.
 
 Al hacer clic en la imagen se le redirigirá al video tutorial.
 
 [![IMAGE ALT TEXT HERE](https://static.warthunder.com/upload/image/media/wallpapers/1-41_eng_com_1920x1080_logo.jpg)](https://www.youtube.com/watch?v=8qinLw5lXvg&ab_channel=XKISITO)
+
