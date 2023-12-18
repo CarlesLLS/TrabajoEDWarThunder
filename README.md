@@ -94,23 +94,30 @@ Los interceptores tienen la capacidad de combatir otros aviones con una gran can
 
 Los bombardeors tienen la capacidad de bombardear y destruir objetivos estrategicos en tierra como fortines, bunkeres o incluso equipo de tierra como tanques, tropas o vehiculos ligeros con capacidad de recoger cierto tipo de informacion en el campo, estos aviones no son autosuficientes es decir no se pueden defender por si mismos, por esta razon suelen ir acompañados de otros aviones como cazas o jets para poder defender a este mismo.
 
+2. ### Batallas Terrestres.
 
+En batallas terrestres tenemos diferentes tipos de tanques, estos tienen una funcion concreta a la hora de usarlos por ejemplo:
+1. Tanques Ligeros.
+2. Tanques Medios.
+3. Tanques Pesados.
+4. Cazacarros.
+5. Anti Aereos.
+6. SPG's o Artillerias.
+7. Vehiculos de Scouting o Reconocimiento.
 
+Los tanques ligeros normalmente se sueles utilzar con doble uso, tanto para eliminar otros vehiculos o tambien se pueden usar para scouting o reconocimiento, estos vehiculos suelen tener un cañon de un calibre bastante considerable como para destruir un tanque medio o pesado, hay mucha gente que los usa pero solo los jugadores mas experimentados pueden sacar todo su potencial.
 
+Los tanques medios suelen utilizarse como tanques principales o MBT traducido tambien como main battle tanks que son los tanques usados en primera linea, estos tanques permiten mas fallos es decir no son como por ejemplo como los tanques ligeros que dependen totalmente de la habilidad del jugador los tanques medios te permiten tener mas fallos y son mas amigables en cuanto a jugadores nuevos, estos tanques tambien suelen tener un cañon de gran calibre y la recarga suele rondar entre los 5 segundos y los 11 segundos.
 
+Los vehiculos pesados suelen utilizarse tambien como tanques principales o MBT estos se suelen utilizar en primera linea de combate, suelen ser mas pesados y suelen aguantar mas disparos de lo normal ya que son tanques con mucho mas blindaje de lo normal, suelen tener cañones mas grandes que los tanques ligeros y medianos, estos suelen superar los 130 mm de cañon y suelen tener recargas de mas de 20 segundos, estos son capaces de destruir cualquier vehiculo con un solo disparo.
 
+Los vehiculos Anti Aereos suelen tener un papel importante en el desenlace de la partida es decir al haber aviones y helicopteros que representan una gran amenaza ya que los tanques no puede destruirlos pueden equilibrar una partida en cuestion de minutos por eso las anti aereas tienen un papel esencial de derribar los vehiculos aereos.
 
+Los vehiculos de artilleria o SPG no estan acabados en el juego, el papel que desempeñan no es un papel importante en la partida ya que no tienen un uso util dentro de la partida, los desarrolladores estan trabajando en ello para intentar pulir esto y poder darles un uso real en partida.
 
+### Vehiculos extra en batallas terrestres 
 
-
-
-
-
-
-
-
-
-
+Dentro de las batallas terrestres no solo encontraremos tanques, tambien encontraremos helicopteros y aviones los helicopteros representan una amenaza para los jugadores que estan jugando con sus tanques ya que desde distancias de hasta 30Km pueden disparar un misil autonomo para destruir unidades de tierra, los helicopteros son raros de ver en partida ya que son dificiles de investigar, pero cuando se ven en partida es mejor esconderse que lamentar ya que son dificiles de derribar
 
 
 
